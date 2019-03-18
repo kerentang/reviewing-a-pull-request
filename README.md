@@ -18,6 +18,7 @@ To play the game:
 5. When completed, the rows will disappear.
 6. To pause the game, just press the space bar again.
 
+
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
-This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+This fun open source game was cloned from: [jakesgordon/javascript-tetris](https://github.com/jakesgordon/javascript-tetris)
